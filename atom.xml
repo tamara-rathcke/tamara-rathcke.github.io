@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://travellina2000.github.io</id>
-    <title>Tamara&apos;s Page</title>
-    <updated>2020-11-02T16:24:39.102Z</updated>
+    <title></title>
+    <updated>2020-11-02T16:52:54.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://travellina2000.github.io"/>
     <link rel="self" href="https://travellina2000.github.io/atom.xml"/>
     <logo>https://travellina2000.github.io/images/avatar.png</logo>
     <icon>https://travellina2000.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Tamara&apos;s Page</rights>
+    <rights>All rights reserved 2020, </rights>
 </feed>
