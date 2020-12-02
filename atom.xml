@@ -2,68 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tamara-rathcke.github.io/</id>
     <title></title>
-    <updated>2020-12-02T18:10:52.881Z</updated>
+    <updated>2020-12-02T18:14:59.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tamara-rathcke.github.io/"/>
     <link rel="self" href="https://tamara-rathcke.github.io/atom.xml"/>
     <logo>https://tamara-rathcke.github.io/images/avatar.png</logo>
     <icon>https://tamara-rathcke.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, </rights>
-    <entry>
-        <title type="html"><![CDATA[Grants]]></title>
-        <id>https://tamara-rathcke.github.io/post/grants/</id>
-        <link href="https://tamara-rathcke.github.io/post/grants/">
-        </link>
-        <updated>2020-12-02T01:51:00.000Z</updated>
-        <content type="html"><![CDATA[<p>2019-2023<br>
-Research Grant, Flanders Research Council FWO (PI: Prof Anne Breitbarth, CI: Prof Claudia Crocco, CI: Dr Jacopo Garzonio, €221,186)</p>
-<p>Project: ‘Prosodic cues to syntactic reanalysis: experimentally tracking Jespersen's cycle in progress’</p>
-<p>2018-2021<br>
-Research Grant, Leverhulme Trust (CI: Dr Simone Falk, CI: Prof Simone Dalla Bella; £203,349)</p>
-<p>Project: ‘Does language have groove? Sensorimotor synchronisation for the study of linguistic rhythm’</p>
-<p>2016-2018<br>
-British Academy Small Research Grant Scheme (CI: Dr Simone Falk, CI: Prof Simone Dalla Bella; £9,998)<br>
-Project: ‘Speaking or singing? On the origins of the speech-to-song illusion’</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Examining]]></title>
-        <id>https://tamara-rathcke.github.io/post/examining/</id>
-        <link href="https://tamara-rathcke.github.io/post/examining/">
-        </link>
-        <updated>2020-12-01T18:48:41.000Z</updated>
-        <content type="html"><![CDATA[<p>I am one of the departmental examiners for Konstanz students graduating with a teaching qualification in English Language and Linguistics. I examine on phonetics, phonology, morphology, sociolinguistics, varieties of English and psycholinguistics. Please contact me if you want to discuss your examination topics and readings.</p>
-<p>I also serve as an external examiner on the MSc programme in Speech and Language Therapy at City University of London.</p>
-<p>At Kent, I was an internal examiner for two PhD-graduates in the English Language and Linguistics department:<br>
-    •	Ishrat Rehman (2019): Urdu Vowel System and Perception of English vowels by Punjabi-Urdu speakers.<br>
-    •	Jonathan Kasstan (2015): Variation and change in Francoprovençal: A study of an emerging linguistic norm.</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ ]]></title>
-        <id>https://tamara-rathcke.github.io/post/prof-dr-tamara-rathcke/</id>
-        <link href="https://tamara-rathcke.github.io/post/prof-dr-tamara-rathcke/">
-        </link>
-        <updated>2020-11-30T08:24:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="\post-images\1606926572845.jpg" width="300" style="float: left"/>　
-　
-<p><strong>Prof. Dr. Tamara Rathcke</strong><br>
-　       <a href="mailto:tamara.rathcke@uni-konstanz.de">tamara.rathcke@uni-konstanz.de</a><br>
-　　<a href="https://orcid.org/0000-0002-4831-7387">ORCiD</a><br>
-　　<a href="https://www.researchgate.net/profile/Tamara_Rathcke">Researchgate</a><br>
-　　<a href="https://twitter.com/tamarathcke">Twitter</a><br>
-　　<a href="osf.io/ajwfh">OSF</a></p>
-<div style="float:none;clear:both;">
-I am Professor of English Linguistics at the Linguistics department of the University of Konstanz and Senior Lecturer in Linguistics at the Modern Languages and Linguistics department of the University of Kent. 
-</div>
-<p></p>
-<div style="float:none;clear:both;">
-I specialise in phonetics and laboratory phonology, and much of my research crosses disciplinary boundaries. I study prosody – all things unspoken that make verbal communication rich in meaning. I serve on the editorial board of the Journal of the International Phonetic Association, and regularly review for conferences, journals, publishers and funders. 
-</div>
-<p></p>
-<div style="float:none;clear:both;">
-I teach courses on phonetics, phonology, morphology, sociolinguistics and psycholinguistics at undergraduate and postgraduate levels and am available to supervise theses in any of these fields. 
-</div>
-]]></content>
-    </entry>
 </feed>
