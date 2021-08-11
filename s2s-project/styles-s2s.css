@@ -1,0 +1,38 @@
+body.mbckgd {background-color: #132E5D; font-family: Helvetica;}
+DIV.divbanner {background-color:#5973aa;background-image: url("images/sound-waves_Z.jpg"); padding: 3%; color: white;}
+div.mainarea {background-color: #F2F4F0; color: #132E5D; width: 80%; margin-left: 30px; padding: 20px;}
+
+ul.topnavmenu {list-style-type: none; margin: 0; padding: 0; overflow: hidden;background-color: rgba(89, 115, 170, 0.4);}
+
+li.topnavmenu {float: left; border-right: 1px solid #bbb;}
+
+a.topnavmenu {display: block; color: #132E5D; text-align: center; padding: 14px 16px; text-decoration: none;}
+a.topnavmenu:hover{background-color: rgba(253, 253, 253, 0.5);}
+
+a.activetab {background-color: rgba(253, 253, 253, 0.5); color: #132E5D;}
+
+audio.auexamples {padding: 2%;}
+
+* {box-sizing: border-box;}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+[class*="clmn-"] {
+  float: left;
+  padding: 15px;
+}
+
+.clmn-1 {width: 46%;}
+.clmn-2 {width: 46%;}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="clmn-"] {
+    width: 100%;
+  }
+  .illstr {max-width: 100%; height: auto;}
+}
