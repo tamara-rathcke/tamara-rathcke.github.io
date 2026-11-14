@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-60 -60 120 120">
+  <!-- Site icon: one cherry blossom from the background tile (tools/make_sakura.py), drawn larger and bolder. -->
+  <defs>
+    <clipPath id="c"><path d="M0 -6C-14 -10 -23 -29 -18 -43C-15 -51 -7 -54 -3 -50L0 -44L3 -50C7 -54 15 -51 18 -43C23 -29 14 -10 0 -6Z"/></clipPath>
+    <g id="p" stroke-linejoin="round">
+      <path fill="#ff92bd" d="M0 -6C-14 -10 -23 -29 -18 -43C-15 -51 -7 -54 -3 -50L0 -44L3 -50C7 -54 15 -51 18 -43C23 -29 14 -10 0 -6Z"/>
+      <ellipse clip-path="url(#c)" cx="0" cy="-8" rx="16" ry="13" fill="#ec5a8f"/>
+      <path fill="none" stroke="#0b0b0a" stroke-width="5" d="M0 -6C-14 -10 -23 -29 -18 -43C-15 -51 -7 -54 -3 -50L0 -44L3 -50C7 -54 15 -51 18 -43C23 -29 14 -10 0 -6Z"/>
+    </g>
+  </defs>
+  <g transform="rotate(-18)"><use xlink:href="#p" href="#p" transform="rotate(0)"/><use xlink:href="#p" href="#p" transform="rotate(72)"/><use xlink:href="#p" href="#p" transform="rotate(144)"/><use xlink:href="#p" href="#p" transform="rotate(216)"/><use xlink:href="#p" href="#p" transform="rotate(288)"/></g>
+  <g fill="#e7b54c" stroke="#0b0b0a" stroke-width="1.6"><circle cx="12.4" cy="4.0" r="2.6"/><circle cx="7.6" cy="10.5" r="2.6"/><circle cx="0.0" cy="13.0" r="2.6"/><circle cx="-7.6" cy="10.5" r="2.6"/><circle cx="-12.4" cy="4.0" r="2.6"/><circle cx="-12.4" cy="-4.0" r="2.6"/><circle cx="-7.6" cy="-10.5" r="2.6"/><circle cx="-0.0" cy="-13.0" r="2.6"/><circle cx="7.6" cy="-10.5" r="2.6"/><circle cx="12.4" cy="-4.0" r="2.6"/></g>
+  <circle r="8.5" fill="#b83c66" stroke="#0b0b0a" stroke-width="3.5"/>
+</svg>
