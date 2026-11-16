@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-25 -57 50 54">
+  <!-- A single falling petal (the same blossoms at night, in a deeper pink), made by tools/make_sakura.py. -->
+  <defs><clipPath id="c"><path d="M0 -6C-14 -10 -23 -29 -18 -43C-15 -51 -7 -54 -3 -50L0 -44L3 -50C7 -54 15 -51 18 -43C23 -29 14 -10 0 -6Z"/></clipPath></defs>
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <path fill="#ff8ec0" d="M0 -6C-14 -10 -23 -29 -18 -43C-15 -51 -7 -54 -3 -50L0 -44L3 -50C7 -54 15 -51 18 -43C23 -29 14 -10 0 -6Z"/>
+    <g clip-path="url(#c)">
+      <ellipse cx="0" cy="-8" rx="16" ry="13" fill="#e3568e"/>
+      <path fill="none" stroke="#0b0b0a" stroke-width="1.4" d="M0 -14L0 -36M-6 -16Q-10 -26 -10 -34M6 -16Q10 -26 10 -34"/>
+    </g>
+    <path fill="none" stroke="#0b0b0a" stroke-width="3.6" d="M0 -6C-14 -10 -23 -29 -18 -43C-15 -51 -7 -54 -3 -50L0 -44L3 -50C7 -54 15 -51 18 -43C23 -29 14 -10 0 -6Z"/>
+  </g>
+</svg>
